@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Fixed minor edge case in input handling
 - Bumped patch version
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
+- Updated .gitignore to exclude build artifacts
